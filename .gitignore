@@ -1,0 +1,15 @@
+**/__pycache__
+**/__pycache__/**
+*.pyc
+**/.ipynb_checkpoints/
+**/.ipynb_checkpoints/**
+**/.vscode
+**/.vscode/**
+
+*.so
+src/widerface_eval/box_overlaps.c
+**/build
+**/build/**
+
+**/results
+**/results/**

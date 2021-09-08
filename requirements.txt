@@ -1,0 +1,6 @@
+opencv-python
+torch>=1.7.0
+tensorboard
+scipy
+tqdm
+cython
